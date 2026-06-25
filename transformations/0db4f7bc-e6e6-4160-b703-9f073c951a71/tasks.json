@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": 990546075528073217,
+      "job_id": "0db4f7bc-e6e6-4160-b703-9f073c951a71",
+      "query": "insert into products2 values(12,34)",
+      "is_active": true
+    }
+  ]
+}

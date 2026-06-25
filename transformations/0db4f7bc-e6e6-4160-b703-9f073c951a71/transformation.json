@@ -1,0 +1,22 @@
+{
+  "id": "0db4f7bc-e6e6-4160-b703-9f073c951a71",
+  "name": "trans2",
+  "pipeline_id": null,
+  "type": 4,
+  "destination_connector": "postgres",
+  "trigger": {
+    "type": null
+  },
+  "alerts": {
+    "send_email": false,
+    "email_to": "",
+    "email_error_only": false
+  },
+  "properties": {
+    "enable_parallel_processing": false,
+    "worker_pool": 2,
+    "verbosity": 2,
+    "command_timeout": 300
+  },
+  "labels": []
+}
