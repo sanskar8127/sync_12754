@@ -17,7 +17,7 @@
   "properties": {
     "enable_parallel_processing": false,
     "worker_pool": 2,
-    "verbosity": 3,
+    "verbosity": 1,
     "destination_schema": "db2",
     "schema_strategy": "",
     "automatic_job_retry": true
